@@ -1,13 +1,13 @@
-💻 Student Application Development & Data Management @ VTI 🎓 <br>
-🚀 Learning code day by day  <br>
-🛠️ Building stuff like Pressure Point
+💻 Student Application Development & Data Management @ VTI 🎓 <br><br>
+🚀 Learning code day by day  <br><br>
+🔭 I’m currently working on Pressure Point
 
 <!--
 **mathias599/mathias599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
