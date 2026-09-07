@@ -3,7 +3,8 @@
 🔭 I’m currently working on Pressure Point <br><br>
 
 ## Contact
-<h5>Location:</h5> Waregem, Belgium
+Location: Waregem, Belgium <br>
+Email: mathiascoene08@gmail.com
 <!--
 **mathias599/mathias599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
