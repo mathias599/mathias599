@@ -3,7 +3,6 @@
 💻 Student Application Development & Data Management @ VTI 🎓 <br><br>
 🚀 Learning code day by day  <br><br>
 🔭 I’m currently working on Pressure Point <br><br>
-
 ## Contact
 Location: Waregem, Belgium <br><br>
 Email: mathiascoene08@gmail.com
