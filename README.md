@@ -1,7 +1,9 @@
 💻 Student Application Development & Data Management @ VTI 🎓 <br><br>
 🚀 Learning code day by day  <br><br>
-🔭 I’m currently working on Pressure Point
+🔭 I’m currently working on Pressure Point <br><br>
 
+## Contact
+<h5>Location:</h5> Waregem, Belgium
 <!--
 **mathias599/mathias599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
